@@ -18,9 +18,10 @@ body{
 }
 
 .sidebar{
-    background-color: green;
+    background-color: black;
     width:340px;                  /* responsive  */
     border-radius: 1rem;
+    margin-right: 0.5rem;
 }
 
 .main-content{
