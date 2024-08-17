@@ -14,6 +14,7 @@ body{
 .main{
     display: flex;
     height: 100vh;
+    padding: 0.5rem;
 }
 
 .sidebar{
@@ -103,3 +104,33 @@ a{
 .iocns i:hover{
     opacity: 1;
 }
+
+.box{
+    background-color: #232323;
+    height: 8rem;
+    border-radius: 0.75rem;
+    margin: 0.75rem 0 1.75rem 0;
+    padding: 0.75rem 1rem;
+}
+
+.box-p1{
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.box-p2{
+    font-size: 0.85rem;
+    opacity: 0.9;
+}
+
+.badge{
+    background-color: aliceblue;
+    border: none;
+    border-radius: 100px;
+    padding: 0.25rem 1rem;
+    font-weight: 700;
+    margin-top: 0.5rem;
+    height: 2rem;
+    width: fit-content;
+}
+
