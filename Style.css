@@ -280,5 +280,5 @@ a{
 }
 
 .progress-bar {
-    --progress: 50%; /* Set this dynamically with JavaScript */
+    --progress: 0%; /* Set this dynamically with JavaScript */
 }
